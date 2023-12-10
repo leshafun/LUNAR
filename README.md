@@ -27,4 +27,4 @@
 * [Макет](https://www.figma.com/file/WHXJQ77dMEq75wZI32bSHJ/LUNAR?type=design&node-id=0-1&mode=design) 
 
 
-* [Сайт](https://leshafun.github.io/LUNAR/) 
+* [Сайт](https://www.figma.com/file/WHXJQ77dMEq75wZI32bSHJ/LUNAR?type=design&node-id=0-1&mode=design) 
