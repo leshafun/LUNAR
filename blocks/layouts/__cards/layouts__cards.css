@@ -1,0 +1,7 @@
+.layouts__cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 71px auto 230px;
+    gap: 40px;
+}

@@ -1,0 +1,7 @@
+.header {
+    width: 1240px;
+    height: 80px;
+    margin: 0 auto;
+    display: flex;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+}

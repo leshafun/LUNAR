@@ -1,0 +1,6 @@
+.intro__container {
+    display: flex;
+    width: 348px;
+    justify-content: space-between;
+    margin-top: 57px;
+}

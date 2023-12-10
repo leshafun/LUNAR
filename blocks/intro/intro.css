@@ -1,0 +1,31 @@
+.intro {
+    position: relative;
+    background-color: #FFF4F4;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+}
+
+.intro::before {
+    content: '';
+    position: absolute;
+    background-image: url("../../images/blot.png");
+    width: 400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    right: 0;
+    top: -213px;
+}
+
+.intro::after {
+    content: '';
+    position: absolute;
+    background-image: url("../../images/blots.png");
+    width: 200px;
+    height: 200px;
+    bottom: 13px;
+    left: 40px;
+}

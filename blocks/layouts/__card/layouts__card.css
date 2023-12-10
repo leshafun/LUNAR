@@ -1,0 +1,7 @@
+.layouts__card {
+    width: 520px;
+    height: 428px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 3px 12px 0 rgba(116, 67, 67, 0.10);
+}

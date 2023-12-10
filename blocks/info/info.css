@@ -1,0 +1,8 @@
+.info {
+    height: 820px;
+    border-radius: 25px;
+    background-color: #DD7979;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}

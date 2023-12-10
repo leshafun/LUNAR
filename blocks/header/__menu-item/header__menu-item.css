@@ -1,0 +1,19 @@
+.header__menu-item {
+    margin-left: 41px;
+}
+
+.header__menu-item:first-child {
+    margin-left: 0;
+}
+
+.header__menu-item:nth-child(2) {
+    margin-left: 31px;
+}
+
+.header__menu-item:nth-child(4) {
+    margin-left: 45px;
+}
+
+.header__menu-item:last-child {
+    margin-left: 44px;
+}

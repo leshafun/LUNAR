@@ -1,0 +1,5 @@
+.footer__social {
+    display: flex;
+    margin-top: 64px;
+    list-style: none;
+}

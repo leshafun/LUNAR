@@ -1,0 +1,8 @@
+.footer__site-links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    padding: 0;
+    gap: 14px;
+    list-style: none;
+}

@@ -1,0 +1,8 @@
+.layouts {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("../../images/background-pink_1.svg");
+}
+

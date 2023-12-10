@@ -1,0 +1,7 @@
+.footer__info {
+    width: 1170px;
+    margin: 30px auto 0;
+    display: flex;
+    border-bottom: 1px solid #995858;
+    padding-bottom: 40px;
+}

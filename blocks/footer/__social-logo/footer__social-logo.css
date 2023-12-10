@@ -1,0 +1,10 @@
+.footer__social-logo {
+    width: 48px;
+    height: 48px;
+    margin-right: 8px;
+    padding: 0;
+}
+
+.footer__social-logo:nth-child(4) {
+    margin-right: 1px;
+}

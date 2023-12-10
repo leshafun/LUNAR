@@ -1,0 +1,6 @@
+.portfolio {
+    display: flex;
+    justify-content: center;
+    background-image: url('../../images/background-pink_2.svg');
+    background-size: cover;
+}

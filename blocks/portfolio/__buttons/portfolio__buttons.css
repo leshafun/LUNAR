@@ -1,0 +1,10 @@
+.portfolio__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1200px;
+    padding-top: 180px;
+    padding-bottom: 236px;
+    row-gap: 16px;
+    column-gap: 30px;
+}

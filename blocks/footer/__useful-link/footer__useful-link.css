@@ -1,0 +1,16 @@
+.footer__useful-link {
+    color: #FFBABA;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    text-decoration: none;
+    border-right: 2px solid #FFE2D4;
+    padding-right: 4px;
+    padding-left: 4px;
+    margin: 0;
+}
+
+.footer__useful-link:last-child {
+    border-right: none;
+    padding-right: 0;
+}

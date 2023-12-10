@@ -1,0 +1,7 @@
+.info__card {
+    display: flex;
+    width: 267px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

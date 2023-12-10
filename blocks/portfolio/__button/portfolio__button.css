@@ -1,0 +1,23 @@
+.portfolio__button {
+    width: 370px;
+    height: 106px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.portfolio__button:last-child {
+    width: 570px;
+}
+
+.portfolio__button:nth-last-of-type(2) {
+    width: 570px;
+}
+
+.portfolio__button:hover {
+    cursor: pointer;
+    opacity: 0.9;
+}

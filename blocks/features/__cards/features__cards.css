@@ -1,0 +1,8 @@
+.features__cards {
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding-top: 61px;
+    padding-bottom: 140px;
+}

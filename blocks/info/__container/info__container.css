@@ -1,0 +1,8 @@
+.info__container {
+    width: 803px;
+    height: 220px;
+    border-radius: 25px;
+    background-color: #fff;
+    margin-top: 481px;
+    display: flex;
+}
